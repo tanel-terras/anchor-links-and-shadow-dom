@@ -1,6 +1,6 @@
 {
   "name": "@wcd/tanel-terras.plainjs-ljmv0ucn-fork-ljmvuqx6",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "serve": "npx wcd-cli@latest serve oH04HRauNorw5KhLGJH7 --open"
   }
