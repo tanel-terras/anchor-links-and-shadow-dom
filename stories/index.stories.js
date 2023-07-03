@@ -6,4 +6,4 @@ export default {
   },
 };
 
-export const story1 = () => `<content></content>`;
+export const story1 = () => `<regular-content></regular-content>`;
